@@ -1,7 +1,7 @@
 # Python Programming Assignment 3 – CO3
 
-Student name: ____________________
-Register number: ____________________
+Student name: ARTHI A
+Register number: 192525152
 Python version: Python 3.x (record the version installed on your computer)
 Libraries: Python standard library only
 
