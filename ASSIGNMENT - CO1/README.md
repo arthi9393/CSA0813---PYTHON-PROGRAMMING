@@ -1,8 +1,8 @@
 # CSA08 – Python Programming – Assignment 1
 ## Ksheera Village Milk Co-operative Payment Calculator
 
-**Student name:** [Enter your name]  
-**Register number:** [Enter your register number]  
+**Student name:** ARTHI A 
+**Register number:** 192525152
 **Course:** CSA08 – Python Programming  
 **Python version:** Python 3.10+ (tested with the installed version on your computer; record your exact `py --version`)  
 **GitHub repository:** `CSA08-<RegisterNumber>-Assignment1`
