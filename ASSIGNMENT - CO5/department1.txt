@@ -1,0 +1,5 @@
+192311001,Asha,CSE,asha@example.com,Music;Dance
+192311002,Bala,ECE,bala@example.com,Drama
+192311001,Duplicate,CSE,dup@example.com,Music
+192311003,Charan,EEE,invalid-email,Quiz
+bad,row
